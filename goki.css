@@ -1,0 +1,19 @@
+.goki {
+    border: solid white 5px;
+    width: 50%;
+    margin-left: 250px;
+}
+div {
+    width: 50%;
+    margin-left: 25%;
+    font-family: "Libre Baskerville", serif;
+}
+html {
+    background-color: black;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
